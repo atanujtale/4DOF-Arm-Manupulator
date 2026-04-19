@@ -29,4 +29,3 @@ This project implements a 3 Degree of Freedom robotic arm manipulator designed f
 
 ## Author
 Anuj Sadashiv Tale
-Shri Guru Gobind Singhji Institute of Engineering and Technology
