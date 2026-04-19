@@ -1,4 +1,4 @@
-# 3 DOF Arm Manipulator
+# 4 DOF Arm Manipulator
 
 ## Overview
 This project implements a 3 Degree of Freedom robotic arm manipulator designed for basic object manipulation and pick-and-place tasks.
