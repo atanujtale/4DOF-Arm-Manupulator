@@ -17,7 +17,7 @@ This project implements a 4 Degree of Freedom robotic arm manipulator designed f
 - C++ Programming
 
 ## Features
-- 3 DOF movement
+- 4 DOF movement
 - Servo based control
 - Forward kinematics implementation
 - Pick and place operation
